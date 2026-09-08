@@ -9,3 +9,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 Hello DSCI 521 Class!
 
 You can use `quarto preview` for seeing changes while working.
+
+Don't forget to render to docs and delete the _site default.
